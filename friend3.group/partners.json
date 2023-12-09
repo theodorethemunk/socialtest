@@ -1,0 +1,190 @@
+{
+  "BSC": [
+    {
+      "spaceName": "BNB Chain",
+      "spaceKey": "trustfi",
+      "logoUrl": "/partners/bnbchain.png",
+      "website": "#"
+    },
+    {
+      "spaceName": "Okx Wallet",
+      "spaceKey": "okx",
+      "logoUrl": "/partners/okx.png",
+      "website": "#"
+    },
+    {
+      "spaceName": "Floki",
+      "spaceKey": "cheersland",
+      "logoUrl": "/partners/floki.png",
+      "website": "#"
+    },
+    {
+      "spaceName": "Babydoge",
+      "spaceKey": "cheersland",
+      "logoUrl": "/partners/babydoge.png",
+      "website": "#"
+    },
+    {
+      "spaceName": "Safepal",
+      "spaceKey": "cheersland",
+      "logoUrl": "/partners/safepal.png",
+      "website": "#"
+    },
+    {
+      "spaceName": "Coin98",
+      "spaceKey": "cheersland",
+      "logoUrl": "/partners/coin98.png",
+      "website": "#"
+    },
+    
+    {
+      "spaceName": "poolz",
+      "spaceKey": "cheersland",
+      "logoUrl": "/partners/poolz.png",
+      "website": "#"
+    },
+    {
+      "spaceName": "trustswap",
+      "spaceKey": "cheersland",
+      "logoUrl": "/partners/trustswap.png",
+      "website": "#"
+    },
+    {
+      "spaceName": "ChainGPT",
+      "spaceKey": "cheersland",
+      "logoUrl": "/partners/chaingpt.png",
+      "website": "#"
+    },
+    {
+      "spaceName": "SpaceID",
+      "spaceKey": "cheersland",
+      "logoUrl": "/partners/spaceid.png",
+      "website": "#"
+    },
+    {
+      "spaceName": "Bakeryswap",
+      "spaceKey": "cheersland",
+      "logoUrl": "/partners/bakeryswap.png",
+      "website": "#"
+    },
+    {
+      "spaceName": "dmail",
+      "spaceKey": "cheersland",
+      "logoUrl": "/partners/dmail.png",
+      "website": "#"
+    },
+    {
+      "spaceName": "BSCDaily",
+      "spaceKey": "cheersland",
+      "logoUrl": "/partners/BSCDaily.png",
+      "website": "#"
+    },
+    {
+      "spaceName": "BSCNews",
+      "spaceKey": "cheersland",
+      "logoUrl": "/partners/bscnews.png",
+      "website": "#"
+    },
+    {
+      "spaceName": "MagicSquare",
+      "spaceKey": "cheersland",
+      "logoUrl": "/partners/magicsquare.png",
+      "website": "#"
+    },
+    {
+      "spaceName": "Taskon",
+      "spaceKey": "cheersland",
+      "logoUrl": "/partners/taskon.png",
+      "website": "#"
+    },
+    {
+      "spaceName": "Onto",
+      "spaceKey": "cheersland",
+      "logoUrl": "/partners/onto.png",
+      "website": "#"
+    },
+    {
+      "spaceName": "Math Wallet",
+      "spaceKey": "cheersland",
+      "logoUrl": "/partners/mathwallet.png",
+      "website": "#"
+    },
+    {
+      "spaceName": "aitech",
+      "spaceKey": "cheersland",
+      "logoUrl": "/partners/aitech.png",
+      "website": "#"
+    },
+    {
+      "spaceName": "unilayer",
+      "spaceKey": "cheersland",
+      "logoUrl": "/partners/unilayer.png",
+      "website": "#"
+    },
+    {
+      "spaceName": "ariva",
+      "spaceKey": "cheersland",
+      "logoUrl": "/partners/ariva.png",
+      "website": "#"
+    },
+    {
+      "spaceName": "ego",
+      "spaceKey": "cheersland",
+      "logoUrl": "/partners/ego.png",
+      "website": "#"
+    },
+    {
+      "spaceName": "tokenfi",
+      "spaceKey": "cheersland",
+      "logoUrl": "/partners/tokenfi.png",
+      "website": "#"
+    },
+    {
+      "spaceName": "bscs",
+      "spaceKey": "cheersland",
+      "logoUrl": "/partners/bscs.png",
+      "website": "#"
+    },
+   
+    
+    {
+      "spaceName": "TrustFi",
+      "spaceKey": "cheersland",
+      "logoUrl": "/partners/trustfi.png",
+      "website": "#"
+    },
+    {
+      "spaceName": "Koinsaati",
+      "spaceKey": "cheersland",
+      "logoUrl": "/partners/koinsaati.png",
+      "website": "#"
+    },
+   
+    {
+      "spaceName": "4everland",
+      "spaceKey": "cheersland",
+      "logoUrl": "/partners/4everland.png",
+      "website": "#"
+    },
+    {
+      "spaceName": "opbnbjournal",
+      "spaceKey": "cheersland",
+      "logoUrl": "/partners/opbnbjournal.png",
+      "website": "#"
+    },
+    
+    {
+      "spaceName": "5starido",
+      "spaceKey": "cheersland",
+      "logoUrl": "/partners/5starido.png",
+      "website": "#"
+    },
+    {
+      "spaceName": "sardis",
+      "spaceKey": "cheersland",
+      "logoUrl": "/partners/sardis.png",
+      "website": "#"
+    }
+  ],
+  "time": "2022-01-12"
+}
